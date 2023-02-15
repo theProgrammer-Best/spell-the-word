@@ -1,0 +1,47 @@
+{
+    "name": "Spell the word! (backup)",
+    "description": "",
+    "dependencies": {
+        "device": "*",
+        "arcade-text": "github:microsoft/arcade-text#v1.3.0"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "assets.json",
+        "images.g.jres",
+        "images.g.ts",
+        "tilemap.g.jres",
+        "tilemap.g.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "1.12.21",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "blocksprj",
+    "palette": [
+        "#000000",
+        "#f4f4f4",
+        "#b13e53",
+        "#a7f070",
+        "#ef7d57",
+        "#ffcd75",
+        "#257179",
+        "#38b764",
+        "#29366f",
+        "#3b5dc9",
+        "#41a6f6",
+        "#566c86",
+        "#333c57",
+        "#94b0c2",
+        "#5d275d",
+        "#1a1c2c"
+    ]
+}
